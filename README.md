@@ -304,7 +304,6 @@ El modelo detecta que:
 
 ---
 
-**Documento preparado por**: Equipo de Análisis de Datos - Gestión Hídrica Barcelona  
-**Fecha**: Octubre 2025  
-**Versión**: 2.0 (Integración Machine Learning)  
-**Contacto**: data@aguasbarcelona.cat
+**Documento preparado por**: Dragos Calin - Gestión Hídrica Barcelona  
+**Fecha**: 15 Octubre 2025   
+**Contacto**: https://github.com/dragoscalin33
