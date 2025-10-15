@@ -1,6 +1,6 @@
-# 💧 Desafío de Análisis Hídrico: Equilibrio y Gestión del Consumo en Barcelona (Reto 3)
+#  Desafío de Análisis Hídrico: Equilibrio y Gestión del Consumo en Barcelona (Reto 3)
 
-## 🚀 Objetivo del Proyecto
+##  Objetivo del Proyecto
 
 El objetivo principal de este proyecto es transformar datos agregados de consumo de agua en **Inteligencia Operacional** para la gestión sostenible. Se utilizaron técnicas de análisis avanzado y creación de métricas de negocio para:
 
@@ -10,7 +10,7 @@ El objetivo principal de este proyecto es transformar datos agregados de consumo
 
 ---
 
-## 📊 Metodología y Técnicas Aplicadas
+##  Metodología y Técnicas Aplicadas
 
 La gestión de datos se centró en la creación de **Indicadores de Intensidad (IIC/ACM)**, que permiten dirigir los recursos de auditoría a las zonas de mayor riesgo por unidad de consumo, superando el análisis tradicional basado en volumen.
 
@@ -30,7 +30,7 @@ Se desglosó la serie temporal para entender el "cuándo" de la crisis:
 
 ---
 
-## 🚩 Hallazgos Clave y Estrategia Final
+##  Hallazgos Clave y Estrategia Final
 
 El análisis valida una estrategia de intervención quirúrgica basada en la intensidad de uso.
 
@@ -43,7 +43,7 @@ El análisis valida una estrategia de intervención quirúrgica basada en la int
 
 ---
 
-## 🛠️ Archivos del Proyecto
+##  Archivos del Proyecto
 
 * `consumo_agregado.parquet`: **(BASE)** Datos principales de consumo.
 * `Fuites`: Datos de alertas de la red utilizados para la **Ineficiencia Directa** (FIG. 5).
